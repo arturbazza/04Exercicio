@@ -1,0 +1,7 @@
+- Link do repositório:
+https://github.com/arturbazza/04Exercicio.git
+
+- Teste no Postman:
+address=Av. Jerônimo de Ornelas, 115, porto alegre
+
+http://localhost:8080/address/geographic-location?address=Av. Jerônimo de Ornelas, 115, porto alegre
